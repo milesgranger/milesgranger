@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm just a happy engineer who enjoys improving his craft of software/system development within the fields of 
+I'm a happy engineer who enjoys improving his craft of software/system development within the fields of 
 Dev/ML Ops and dabbles some in front-end development. Presently an independent consultant in the Bergen Norway area. 
 
 - 🔭 Currently working with Dev/MlOps projects, specializing in AWS.
