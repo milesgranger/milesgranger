@@ -1,11 +1,11 @@
-### Hi there 👋
+### Howdy! 👋
 
-I'm a happy engineer who enjoys improving his craft of software/system development within the fields of 
+I'm simply a happy engineer who enjoys improving his craft of software/system development within the fields of 
 Dev/ML Ops and dabbles some in front-end development. Presently an independent consultant in the Bergen Norway area. 
 
 - 🔭 Currently working with Dev/MlOps projects, specializing in AWS.
 - 🌱 Learning [Flutter](https://flutter.dev/) and mobile app development.
-- 👯 Open to collaborate on digitalization projects in Norway.
+- 👯 Open to collaborate on digitalization projects in Norway/Nordic/Europe.
 - 💬 Ask me about making a good ol' fashion applie pie!
 - 📫 How to reach me: [Noetic.no](https://www.noetic.no/)
 - ⚡ Fun fact: I develop [elevation-api.io](https://elevation-api.io) which serves ~2.5 million requests per day. 
