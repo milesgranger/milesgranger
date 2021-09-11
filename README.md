@@ -1,7 +1,7 @@
 ### Howdy! 👋
 
-Some guy you've never heard of, simply trying to improve his software/system development craftsmanship within the fields of 
-Dev/ML Ops and dabbling some in front-end development. Presently an independent consultant in the Bergen Norway area. 
+I'm a mediocre software developer trying to improve his software/system development craftsmanship within the fields of 
+Dev/Data/ML and dabbling some in front-end development. Presently an independent consultant in the Bergen Norway area. 
 
 - 🔭 Currently working with Dev/MlOps projects, specializing in AWS.
 - 🌱 Learning [Flutter](https://flutter.dev/) and mobile app development.
