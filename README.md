@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I'm a mediocre software developer trying to improve his software/system development craftsmanship within the fields of 
+I'm a reliable software developer trying to improve his software/system development craftsmanship within the fields of 
 Dev/Data/ML and dabbling some in front-end development. Presently an independent consultant in the Bergen Norway area. 
 
 - 🔭 Currently working with Dev/MlOps projects, specializing in AWS.
