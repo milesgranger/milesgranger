@@ -13,4 +13,4 @@ Dev/Data/ML and dabbling some in front-end development. Presently an independent
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=milesgranger&hide_border=true&show_icons=true&count_private=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=milesgranger&exclude_repo=caroline&hide=html,Jupyter%20Notebook&langs_count=10&layout=compact)
+
