@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I'm a reliable software developer trying to improve his software/system development craftsmanship within the fields of 
+I'm a reliable software engineer always working to improve his software/system development craftsmanship within the fields of 
 Dev/Data/ML and dabbling some in front-end development. Presently an independent consultant in the Bergen Norway area. 
 
 - 🔭 Currently working with Dev/MlOps projects, specializing in AWS.
@@ -8,7 +8,7 @@ Dev/Data/ML and dabbling some in front-end development. Presently an independent
 - 👯 Open to collaborate on digitalization projects in Norway/Nordics/Europe/remote work.
 - 💬 Ask me about making a good ol' fashion applie pie!
 - 📫 How to reach me: [Noetic.no](https://www.noetic.no/)
-- ⚡ Fun fact: I develop [elevation-api.io](https://elevation-api.io) which serves ~2.5 million requests per day. 
+- ⚡ Fun fact: I develop [elevation-api.io](https://elevation-api.io) which serves ~6 million requests per day. 
 
 ---
 
